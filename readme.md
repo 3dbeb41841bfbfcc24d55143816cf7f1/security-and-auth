@@ -78,7 +78,8 @@ How will users register for our web site?
 
 ## Building a Simple TODO App (then adding User Sessions and Security)
 
-* See: [Rails TODO App](https://github.com/ATL-WDI-Exercises/rails_todo_app)
+* For Rails see [Rails TODO App](https://github.com/ATL-WDI-Exercises/rails_todo_app)
+* For Express / NodeJS see [Express Security with Passport](https://github.com/ATL-WDI-Curriculum/express-security-with-passport)
 
 ## Summary
 
