@@ -55,7 +55,7 @@ How will users register for our web site?
 ### Password Policies
 
 * Complexity - passwords should have a minimum complexity
-* Resets - how can a user can reset their lost password?
+* Resets - how can a user reset their lost password?
 * Password Expiration?
 * Password protection - how can we ensure that passwords cannot be stolen?
 
