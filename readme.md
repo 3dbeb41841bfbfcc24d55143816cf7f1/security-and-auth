@@ -7,7 +7,7 @@ Students will be able to:
 * Explain the main Security responsibilities of a web application
 * Define the terms `authentication` and `authorization`
 * Explain how a password can be stored *securely* in a database using a digest.
-* Use Rails to create a simple web application with support for:
+* Use Express with Passport or Rails with Devise to create a simple web application with support for:
   - user registration
   - login and logout
   - "remember me" feature to keep a user signed in
